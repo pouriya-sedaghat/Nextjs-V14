@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "book one",
+      "price": "2300"
+    },
+    {
+      "id": 2,
+      "title": "book two",
+      "price": "6000"
+    },
+    {
+      "id": 3,
+      "title": "book three",
+      "price": "1000"
+    },
+    {
+      "id": 4,
+      "title": "book four",
+      "price": "2000"
+    },
+    {
+      "id": 5,
+      "title": "book five",
+      "price": "5000"
+    },
+    {
+      "id": 6,
+      "title": "book six",
+      "price": "3000"
+    },
+    {
+      "title": "book seven",
+      "price": "10000",
+      "id": 7
+    }
+  ]
+}
